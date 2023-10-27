@@ -1473,7 +1473,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #41c2fe72;
 		font-weight: 200;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
@@ -1612,7 +1612,7 @@
 	}
 
 	header p {
-		color: rgba(255, 255, 255, 0.35);
+		color: rgba(70, 187, 254, 0.284);
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -2240,7 +2240,7 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #92dcffe3;
+			background-color: #0081bd83;
 		}
 
 		input[type="submit"].icon,
@@ -2292,7 +2292,7 @@
 		.button.alt {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
-			color: #ffffff !important;
+			color: #008db886 !important;
 		}
 
 			input[type="submit"].alt:hover,
