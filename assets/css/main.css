@@ -2720,7 +2720,7 @@
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.65);
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: monospace;
 		font-size: 13pt;
 		font-weight: 200;
 		line-height: 1.65;
@@ -2763,7 +2763,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #41c2fe72;
+		color: rgb(255, 193, 246);
 		font-weight: 200;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
@@ -3887,8 +3887,8 @@
 			display: inline-block;
 			margin: 0 0 2em 0;
 			padding: 0.5em;
-			border: solid 1px rgba(161, 88, 88, 0.25);
-			background-color: rgba(255, 255, 255, 0.075);
+			border: solid 1px rgb(255, 255, 255);
+			background-color: rgb(255, 255, 255);
 		}
 
 			#header .avatar img {
