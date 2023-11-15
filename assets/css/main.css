@@ -3894,10 +3894,10 @@
 			#header .avatar img {
 				border-radius: 100%;
 				display: inline-block;
-				width: 40em;
+				width: 10em;
 			}
 
-		@media screen and (max-width: 5000px) {
+		@media screen and (max-width: 1280px) {
 
 			#header {
 				padding: 2em 0 1em 0;
