@@ -3884,7 +3884,7 @@
 
 		#header .avatar {
 			border-radius: 100%;
-			display: block;
+			display: inline-block;
 			margin: 0 0 2em 0;
 			padding: 0.5em;
 			border: solid 1px rgb(255, 255, 255);
@@ -3894,7 +3894,7 @@
 			#header .avatar img {
 				border-radius: 100%;
 				display: block;
-				width: 10em;
+				width: 20em;
 			}
 
 		@media screen and (max-width: 1280px) {
