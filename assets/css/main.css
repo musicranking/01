@@ -3887,8 +3887,7 @@
 			display: inline-block;
 			margin: 2em;
 			padding: 0.25em;
-			border: solid 1px rgb(255, 255, 255);
-			background-color: rgb(255, 255, 255);
+			
 		}
 
 			#header .avatar img {
