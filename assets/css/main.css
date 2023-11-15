@@ -3874,7 +3874,7 @@
 
 	#header {
 		text-align: center;
-		padding: 6em 0 4em 0;
+		padding: 2em 0 1em 0;
 		font-size: small;
 	}
 
@@ -3886,7 +3886,7 @@
 			border-radius: 100%;
 			display: inline-block;
 			margin: 2em;
-			padding: 0.5em;
+			padding: 0.25em;
 			border: solid 1px rgb(255, 255, 255);
 			background-color: rgb(255, 255, 255);
 		}
@@ -3894,7 +3894,7 @@
 			#header .avatar img {
 				border-radius: 100%;
 				display: inline-block;
-				width: 20em;
+				width: 40em;
 			}
 
 		@media screen and (max-width: 1280px) {
