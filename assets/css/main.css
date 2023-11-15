@@ -3615,7 +3615,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #FF6382;
+			background-color: #fbb0f6;
 		}
 
 			input[type="submit"].special:hover,
@@ -3623,7 +3623,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #ff7c96;
+				background-color: rgb(255, 185, 237);
 			}
 
 			input[type="submit"].special:active,
@@ -3631,7 +3631,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #ff496e;
+				background-color: rgb(242, 157, 222);
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -3883,7 +3883,7 @@
 		}
 
 		#header .avatar {
-			border-radius: 0.25%;
+			border-radius: 1%;
 			display: inline-block;
 			margin: 2em;
 			padding: 0.25em;
@@ -3892,7 +3892,7 @@
 		}
 
 			#header .avatar img {
-				border-radius: 0.25%;
+				border-radius: 1%;
 				display: inline-block;
 				width: 10em;
 			}
