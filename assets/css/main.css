@@ -2486,7 +2486,7 @@
 
 	body {
 		background-color: #000;
-		background-image: url("../../images/bg.jpg");
+		background-image: url("../../images/bg.PNG");
 		background-size: cover;
 		background-position: top center;
 	}
@@ -3289,8 +3289,8 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: rgb(255, 210, 252);
-		color: darkolivegreen;
+		background-color: rgb(161, 182, 222);
+		color: rgb(53, 62, 110);
 		border-radius: 4px;
 		border: 0;
 		cursor: pointer;
@@ -3385,7 +3385,7 @@
 			input[type="button"].alt:active,
 			button.alt:active,
 			.button.alt:active {
-				background-color: rgba(255, 0, 0, 0.2);
+				background-color: rgba(45, 49, 96, 0.88);
 			}
 
 			input[type="submit"].alt.icon:before,
@@ -3401,7 +3401,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #fbb0f6;
+			background-color: #85a9db;
 		}
 
 			input[type="submit"].special:hover,
@@ -3409,7 +3409,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: rgb(255, 185, 237);
+				background-color: rgb(143, 161, 213);
 			}
 
 			input[type="submit"].special:active,
@@ -3417,7 +3417,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: rgb(242, 157, 222);
+				background-color: rgb(126, 136, 209);
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
